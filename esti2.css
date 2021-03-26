@@ -1,0 +1,373 @@
+@font-face{
+	font-family:grado9 ;
+	src: url(pastaza.ttf);
+}
+.titulo1{
+	font-family:grado9 ;
+	font-size: 30px;	
+	position: absolute;
+	top: 10px;
+	left: 170px;
+	color: gold;
+}
+.titulo15{
+	font-family:grado9 ;
+	font-size: 30px;	
+	position: absolute;
+	top: 550px;
+	left: 160px;
+	color: purple;
+}
+@font-face{
+	font-family:grado8 ;
+	src: url(plaza.ttf);
+}
+.titulo2{
+	font-family:grado8 ;
+	font-size: 10px;	
+	position: absolute;
+	top: 50px;
+	left: 210px;
+	color: gold;
+}
+@font-face{
+	font-family:grado7 ;
+	src: url(concurso.ttf);
+}
+.titulo3{
+	font-family:grado7 ;
+	font-size: 25px;	
+	position: absolute;
+	top: 80px;
+	left: 90px;
+	color: gold;
+}
+@font-face{
+	font-family:grado6 ;
+	src: url(a.ttf);
+}
+.titulo4{
+	font-family:grado6 ;
+	font-size: 70px;	
+	position: absolute;
+	top: 100px;
+	left: 110px;
+	color: white;
+}
+.titulo13{
+	z-index: 12;
+	font-family:grado6 ;
+	font-size: 25px;	
+	position: absolute;
+	top: 520px;
+	left: 130px;
+	color: yellow;
+}
+.titulo14{
+	z-index: 13;
+	font-family:grado6 ;
+	font-size: 25px;	
+	position: absolute;
+	top: 520px;
+	left: 170px;
+	color: white;
+}
+@font-face{
+	font-family:grado5 ;
+	src: url(concurso.ttf);
+}
+.titulo5{
+	font-family:grado5 ;
+	font-size: 25px;	
+	position: absolute;
+	top: 270px;
+	left: 90px;
+	color: gold;
+}
+@font-face{
+	font-family:grado4 ;
+	src: url(viernes.TTF);
+}
+.titulo6{
+	font-family:grado4 ;
+	font-size: 15px;	
+	position: absolute;
+	top: 370px;
+	left: 13px;
+	color: gold;
+}
+@font-face{
+	font-family:grado3 ;
+	src: url(plaza.ttf);
+}
+.titulo7{
+	font-family:grado3 ;
+	font-size: 15px;	
+	position: absolute;
+	top: 430px;
+	left: 50px;
+	color: gold;
+}
+.titulo8{
+	font-family:grado3 ;
+	font-size: 15px;	
+	position: absolute;
+	top: 445px;
+	left: 30px;
+	color: gold;
+}
+.titulo9{
+	font-family:grado3 ;
+	font-size: 15px;	
+	position: absolute;
+	top: 460px;
+	left: 35px;
+	color: gold;
+}
+.titulo10{
+	font-family:grado3 ;
+	font-size: 15px;	
+	position: absolute;
+	top: 475px;
+	left: 15px;
+	color: gold;
+}
+.titulo11{
+	font-family:grado3 ;
+	font-size: 25px;	
+	position: absolute;
+	top: 490px;
+	left: 35px;
+	color: gold;
+}
+@font-face{
+	font-family:grado2 ;
+	src: url(21.ttf);
+}
+.titulo12{
+	z-index: 6;
+	font-family:grado2 ;
+	font-size: 30px;	
+	position: absolute;
+	top: 385px;
+	left: 23px;
+	color: black;
+}
+.bandera1{
+	z-index: 16;
+	font-family:grado2 ;
+	font-size: 13px;	
+	position: absolute;
+	top: 330px;
+	left: 325px;
+	color: white;
+}
+.bandera2{
+	z-index: 17;
+	font-family:grado2 ;
+	font-size: 13px;	
+	position: absolute;
+	top: 360px;
+	left: 300px;
+	color: white;
+}
+.bandera3{
+	z-index: 18;
+	font-family:grado2 ;
+	font-size: 13px;	
+	position: absolute;
+	top: 390px;
+	left: 315px;
+	color: white;
+}
+.bandera4{
+	z-index: 19;
+	font-family:grado2 ;
+	font-size: 13px;	
+	position: absolute;
+	top: 420px;
+	left: 305px;
+	color: white;
+}
+.bandera5{
+	z-index: 20;
+	font-family:grado2 ;
+	font-size: 13px;	
+	position: absolute;
+	top: 450px;
+	left: 300px;
+	color: white;
+}
+.bandera6{
+	z-index: 21;
+	font-family:grado2 ;
+	font-size: 13px;	
+	position: absolute;
+	top: 480px;
+	left: 305px;
+	color: white;
+}
+@font-face{
+	font-family:grado1 ;
+	src: url(internacional.TTF);
+}
+.titulo16{
+	z-index: 14;
+	font-family:grado1 ;
+	font-size: 15px;	
+	position: absolute;
+	top: 590px;
+	left: 90px;
+	color: white;
+}
+.fondo{
+	position: absolute;
+	top: 10px;
+	left: 400px;
+	width: 441px;
+	height: 625px;
+	background: url("fondo.jpeg");
+	background-size: cover;
+}
+.cuadro{
+	position: absolute;
+	top: 385px;
+	left: 10px;
+	width: 110px;
+	height: 40px;
+	background-color: yellow;
+	background-size: cover;
+}
+.pequeño1{
+	position: absolute;
+	top: 0px;
+	left: 30px;
+	width: 390px;
+	height: 5px;
+	background: gold;
+}
+.pequeño2{
+	position: absolute;
+	top: 620px;
+	left: 80px;
+	width: 300px;
+	height: 5px;
+	background: gold;
+}
+.tambor{
+	z-index: 1;
+	position: absolute;
+	top: 320px;
+	left: 120px;
+	width: 200px;
+	height: 200px;
+	background: url("tambor.png");
+	background-size: cover;
+}
+.guitarra{
+	z-index: 2;
+	position: absolute;
+	top: 310px;
+	left: 60px;
+	width: 350px;
+	height: 350px;
+	background: url("guitarra.png");
+	background-size: cover;
+}
+.silbato{
+	z-index: 3;
+	position: absolute;
+	top: 330px;
+	left: 200px;
+	width: 50px;
+	height: 50px;
+	background: url("silbato.png");
+	background-size: cover;
+}
+.hojas1{
+	z-index: 4;
+	position: absolute;
+	top: 30px;
+	left: 0px;
+	width: 250px;
+	height: 300px;
+	background: url("hojas.png");
+	background-size: cover;
+}
+.hojas2{
+	z-index: 5;
+	transform: rotate(180deg);
+	position: absolute;
+	top: 30px;
+	left: 190px;
+	width: 250px;
+	height: 300px;
+	background: url("hojas.png");
+	background-size: cover;
+}
+.chile{
+	z-index: 6;
+	border-radius: 20px;
+	position: absolute;
+	top: 320px;
+	left: 360px;
+	width: 40px;
+	height: 40px;
+	background: url("chile.jpeg");
+	background-size: cover;
+}
+.colombia{
+	z-index: 7;
+	border-radius: 20px;
+	position: absolute;
+	top: 350px;
+	left: 360px;
+	width: 40px;
+	height: 40px;
+	background: url("colombia.jpeg");
+	background-size: cover;
+}
+.bolivia{
+	z-index: 8;
+	border-radius: 20px;
+	position: absolute;
+	top: 380px;
+	left: 360px;
+	width: 40px;
+	height: 40px;
+	background: url("bolivia.jpeg");
+	background-size: cover;
+}
+.ecuador{
+	z-index: 9;
+	border-radius: 20px;
+	position: absolute;
+	top: 410px;
+	left: 360px;
+	width: 40px;
+	height: 40px;
+	background: url("ecuador.jpg");
+	background-size: cover;
+}
+.paraguay{
+	z-index: 10;
+	border-radius: 20px;
+	position: absolute;
+	top: 440px;
+	left: 360px;
+	width: 40px;
+	height: 40px;
+	background: url("paraguay.jpg");
+	background-size: cover;
+}
+.uruguay{
+	z-index: 11;
+	border-radius: 20px;
+	position: absolute;
+	top: 470px;
+	left: 360px;
+	width: 40px;
+	height: 40px;
+	background: url("uruguay.jpeg");
+	background-size: cover;
+}
